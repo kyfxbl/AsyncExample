@@ -2,7 +2,9 @@
   "name": "LearnAsync",
   "version": "0.0.1",
   "dependencies": {
-    "async": "~0.2.10"
+    "async": "~0.2.10",
+    "q": "~1.0.0",
+    "request": "~2.33.0"
   },
   "devDependencies": {}
 }
